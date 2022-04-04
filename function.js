@@ -20,11 +20,11 @@ sum(3,4)
 function threepara(fname,lname,age){
     console.log(fname+" "+lname+" "+"is"+" "+age+" "+"years"+" "+"old")
 }
-threepara("sach","ine" , 10)
+threepara("wami","que" , 10)
 
 
 // Create one arrow function
-let greets=()=>console.log("sachin")
+let greets=()=>console.log("wamique")
 greets()
 
 
